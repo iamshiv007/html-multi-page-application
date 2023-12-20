@@ -1,0 +1,4 @@
+nav, section{
+    display: flex;
+    gap: 20px;
+}
