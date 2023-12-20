@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "IPhone 15 Pro Max",
+        "price": "99999",
+        "fileName":"iphone.html"
+    },
+    {
+        "id": "2",
+        "name": "Mercedes benz s class",
+        "price": "899999999",
+        "fileName":"mercedes.html"
+    },
+    {
+        "id": "3",
+        "name": "Boat wireless Headset",
+        "price": "5999",
+        "fileName":"headset.html"
+    },
+    {
+        "id": "4",
+        "name": "Rich Dad poor dad",
+        "price": "1400",
+        "fileName":"book.html"
+    }
+]
