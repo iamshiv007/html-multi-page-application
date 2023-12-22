@@ -3,24 +3,28 @@
         "id": "1",
         "name": "IPhone 15 Pro Max",
         "price": "99999",
-        "fileName":"iphone.html"
+        "fileName":"iphone.html",
+        "image":"./images/iphone.png"
     },
     {
         "id": "2",
         "name": "Mercedes benz s class",
         "price": "899999999",
-        "fileName":"mercedes.html"
+        "fileName":"mercedes.html",
+        "image":"./images/mercedes.jpg"
     },
     {
         "id": "3",
         "name": "Boat wireless Headset",
         "price": "5999",
-        "fileName":"headset.html"
+        "fileName":"headset.html",
+        "image":"./images/headset.jpg"
     },
     {
         "id": "4",
-        "name": "Rich Dad poor dad",
+        "name": "Rich Dad Poor Dad",
         "price": "1400",
-        "fileName":"book.html"
+        "fileName":"book.html",
+        "image":"./images/book.jpg"
     }
 ]

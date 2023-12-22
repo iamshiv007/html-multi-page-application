@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amazon</title>
     <link rel="stylesheet" href="style.css">
+    <title>Amazon</title>
 </head>
 
 <body>
     <header>
         <nav>
-            <a href="index.html">Amazon</a>
+            <a href="">Amazon</a>
             <a href="about.html">About US</a>
             <a href="contact.html">Contact US</a>
         </nav>
@@ -25,6 +25,7 @@
             </section>
         </div>
     </main>
+
     <script>
 
         fetch("./products.json")
@@ -43,6 +44,7 @@
                 })
             }))
             .catch(error => console.error('Error fetching product data:', error));
+
     </script>
 </body>
 
